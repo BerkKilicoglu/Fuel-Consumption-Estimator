@@ -1,6 +1,6 @@
 import joblib
 
-model = joblib.load('gbm_model.pkl')
+model = joblib.load('trained_ml_model.pkl')
 
 """
 **brand**             **orgin**
