@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/background.jpg</file>
+    <file>icons/abd.png</file>
+    <file>icons/eu.png</file>
+    <file>icons/japan.png</file>
+    <file>icons/robot.png</file>
+    <file>icons/Graphicloads-Colorful-Long-Shadow-Car.ico</file>
+  </qresource>
+</RCC>
